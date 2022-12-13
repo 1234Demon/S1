@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Пользователь\\OneDrive\\Desktop\\geekbrains\\C#\\S1\\example007\\example007.csproj": {}
+    "D:\\Geekbrains\\C#\\S1\\example007\\example007.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Пользователь\\OneDrive\\Desktop\\geekbrains\\C#\\S1\\example007\\example007.csproj": {
+    "D:\\Geekbrains\\C#\\S1\\example007\\example007.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Пользователь\\OneDrive\\Desktop\\geekbrains\\C#\\S1\\example007\\example007.csproj",
+        "projectUniqueName": "D:\\Geekbrains\\C#\\S1\\example007\\example007.csproj",
         "projectName": "example007",
-        "projectPath": "C:\\Users\\Пользователь\\OneDrive\\Desktop\\geekbrains\\C#\\S1\\example007\\example007.csproj",
+        "projectPath": "D:\\Geekbrains\\C#\\S1\\example007\\example007.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Пользователь\\OneDrive\\Desktop\\geekbrains\\C#\\S1\\example007\\obj\\",
+        "outputPath": "D:\\Geekbrains\\C#\\S1\\example007\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
