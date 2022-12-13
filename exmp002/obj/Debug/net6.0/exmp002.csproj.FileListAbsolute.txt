@@ -1,0 +1,15 @@
+D:\Geekbrains\C#\S1\exmp002\bin\Debug\net6.0\exmp002.exe
+D:\Geekbrains\C#\S1\exmp002\bin\Debug\net6.0\exmp002.deps.json
+D:\Geekbrains\C#\S1\exmp002\bin\Debug\net6.0\exmp002.runtimeconfig.json
+D:\Geekbrains\C#\S1\exmp002\bin\Debug\net6.0\exmp002.dll
+D:\Geekbrains\C#\S1\exmp002\bin\Debug\net6.0\exmp002.pdb
+D:\Geekbrains\C#\S1\exmp002\obj\Debug\net6.0\exmp002.csproj.AssemblyReference.cache
+D:\Geekbrains\C#\S1\exmp002\obj\Debug\net6.0\exmp002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\C#\S1\exmp002\obj\Debug\net6.0\exmp002.AssemblyInfoInputs.cache
+D:\Geekbrains\C#\S1\exmp002\obj\Debug\net6.0\exmp002.AssemblyInfo.cs
+D:\Geekbrains\C#\S1\exmp002\obj\Debug\net6.0\exmp002.csproj.CoreCompileInputs.cache
+D:\Geekbrains\C#\S1\exmp002\obj\Debug\net6.0\exmp002.dll
+D:\Geekbrains\C#\S1\exmp002\obj\Debug\net6.0\refint\exmp002.dll
+D:\Geekbrains\C#\S1\exmp002\obj\Debug\net6.0\exmp002.pdb
+D:\Geekbrains\C#\S1\exmp002\obj\Debug\net6.0\exmp002.genruntimeconfig.cache
+D:\Geekbrains\C#\S1\exmp002\obj\Debug\net6.0\ref\exmp002.dll
